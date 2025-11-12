@@ -1,0 +1,7 @@
+! Title: Block 3games.io
+! Description: Custom filter to block 3games domains
+! Homepage: https://github.com/yourusername/filterlist
+
+||shield.3games.io^
+||product.3games.io/api/report_ustat^
+||user.3games.io/user/update_firebase_as_id^
