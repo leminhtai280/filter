@@ -1,4 +1,4 @@
-! Title: Block 3games.io update v4.1
+! Title: Block 3games.io update v4.2
 ! Description: Custom filter to block 3games domains
 ! Homepage: https://leminhtai.com
 
@@ -20,4 +20,5 @@
 ||cmu-interaction.3games.io^
 ||cmu-rcmd.3games.io^
 ||product.3games.io^
-||web.xworld.pro
+||web.xworld.pro^
+||156.59.55.27:443^
