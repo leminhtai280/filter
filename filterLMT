@@ -1,6 +1,6 @@
-! Title: Block 3games.io
+! Title: Block 3games.io update v2
 ! Description: Custom filter to block 3games domains
-! Homepage: https://github.com/yourusername/filterlist
+! Homepage: https://github.com/leminhtai280/filter/edit/main/filterLMT
 
 ||shield.3games.io^
 ||product.3games.io/api/report_ustat^
