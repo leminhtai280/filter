@@ -1,0 +1,6 @@
+! Title: 3games.io Whitelist Only
+! Description: Chỉ cho phép các domain được liệt kê
+! Homepage: https://leminhtai.com
+
+@@||user.3games.io^
+@@||product.3games.io^
