@@ -1,4 +1,4 @@
-! Title: Block 3games.io update v5.0
+! Title: Block 3games.io update v5.1
 ! Description: Custom filter to block 3games domains
 ! Homepage: https://leminhtai.com
 
@@ -28,3 +28,6 @@
 ||user.3games.io/api/report_deeplink^
 ||user.3games.io/user/get_user_info^
 ||rfw4vv-launches.appsflyersdk.com^
+||graph.facebook.com^
+||128.1.50.187:443^
+||firebaselogging-pa.googleapis.com^
