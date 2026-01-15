@@ -1,8 +1,8 @@
-! Title: Block 3games.io update v2
-! Description: Custom filter to block 3games domains
+! Title: Block ThienHa
+! Description: Custom filter to block ThienHa
 ! Homepage: https://leminhtai.com
 
-||shield.3games.io^
-||product.3games.io/api/report_ustat^
-||user.3games.io/user/update_firebase_as_id^
-||dc-alisg.3games.io^
+||8.8.8.8:853^
+||43.152.174.80^
+||report2.xm.nexfungames.vn^
+||report.xm.nexfungames.vn^
